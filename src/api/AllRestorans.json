@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+       "img":"https://imageproxy.wolt.com/venue/607d70a41f0402a93b014f8b/d65ee042-a2d4-11ed-be84-f61c49ab4f22_mcd_exc.png?w=960",
+       "productName":"McDonald's & McCafe Fəvvarələr Meydanı",
+       "productOwner":"I'm lovin' it!",
+       "price":"0.99",
+       "time":"15-25"
+    },
+    {
+        "id":2,
+        "img":"https://imageproxy.wolt.com/venue/6260652d14421e675db70e70/5445b7ca-ff73-11ec-957d-4a8b8c604235_img_6459.jpg?w=960",
+        "productName":"Biryani House",
+        "productOwner":"😍🇮🇳",
+        "price":"0.99",
+        "time":"15-25"
+    },
+    {
+        "id":3,
+        "img":"https://imageproxy.wolt.com/venue/63a57965385ab5d310c2f013/08df6582-82aa-11ed-a4ef-f6f11948fae0_img_4322.jpg?w=960",
+        "productName":"WakeUp Coffee",
+        "productOwner":"'Wake Up' Bakının əsl qəhvə həvəskarlarının gündəlik dəmləmələri və təzə xəmirləri üçün getdikləri yerdir.",
+        "price":"0.99",
+        "time":"20-30"
+    },
+    {
+        "id":4,
+        "img":"https://imageproxy.wolt.com/venue/60e55523515d19ca03efe461/978002be-e2e3-11eb-93b6-5a0a24bb2a29_img_0681.jpg?w=960",
+       "productName":"Avtoş Dönər",
+       "productOwner":"Fərqli dad 🤩",
+       "price":"0.99",
+       "time":"15-25"
+    },
+    {
+        "id":5,
+        "img":"https://imageproxy.wolt.com/venue/5d3f0e585ed88fbd2c11342c/6e68c31e-b7fa-11ed-a351-564800583e07_52b98912_82a5_11ed_85d4_4a8adc7a5553_0a5a9089__3_.jpg?w=960",
+       "productName":"BİR-İKİ Döner Mərkəz",
+       "productOwner":"Bakı şəhərinə dönərism konsepsiyasını yayan məkan",
+       "price":"1.99",
+       "time":"15-25"
+    },
+    {
+        "id":6,
+        "img":"https://imageproxy.wolt.com/venue/5e07036f8e4e6f2739f7cdce/81587318-2944-11ea-8e73-0a58646cb30f_DSC09799%20copy.jpg?w=960",
+       "productName":"Kövsər Dönər Evi",
+       "productOwner":"🌯",
+       "price":"1.90",
+       "time":"25-35"
+    }
+    ,
+    {
+        "id":7,
+        "img":"https://imageproxy.wolt.com/venue/621637f3dde592e2fcde9dc3/ae38be16-94ad-11ec-a61f-8691f83d2c93_img_6862.jpg?w=960",
+       "productName":"Papa Johns Nizami",
+       "productOwner":"Daha yaxşı inqrediyentlər. Daha yaxşı pizza.",
+       "price":"1.40",
+       "time":"20-30"
+    } ,
+    {
+        "id":8,
+        "img":"https://imageproxy.wolt.com/venue/5e77471db9e3054b13f29eb6/af678ad4-9a91-11ed-ab9e-3ec50705730a_89a3f882_9a91_11ed_b7f8_b25b7e616068_aee73978_22e2_11ed_8c6c_d27c46d332fe_papa_john_s_group.png?w=960",
+       "productName":"Pushkin Restaurant",
+       "productOwner":"Keyfiyyət təsadüf deyil!",
+       "price":"1.90",
+       "time":"15-25"
+    },
+    {
+        "id":9,
+        "img":"https://imageproxy.wolt.com/venue/6103b71def761fed22f47092/821886cc-f11a-11eb-b082-2a9a59e7db73_img_5503.jpg?w=960",
+       "productName":"Yol Ustu Doner Evi",
+       "productOwner":"...",
+       "price":"1.40",
+       "time":"25-35"
+    },
+    {
+        "id":10,
+        "img":"https://imageproxy.wolt.com/venue/612362d89a4171001403701c/badf1d52-04d1-11ec-a69c-e23363d8d2e0_img_8904.jpg?w=960",
+       "productName":"KÖZ Halil Usta Nizami",
+       "productOwner":"Keep Calm and Eat Tantuni!",
+       "price":"2.20",
+       "time":"20-30"
+    },
+    {
+        "id":11,
+        "img":"https://imageproxy.wolt.com/venue/635632f2357fdb92ce9bef51/9e04d444-5366-11ed-ae63-6a08ac66e132_ee674726_ccf5_11eb_bd99_3e75d11a5a98_group.jpeg?w=960",
+       "productName":"KÖZ Halil Usta 28 May",
+       "productOwner":"Keep Calm and Eat Tantuni!",
+       "price":"1.40",
+       "time":"20-30"
+    },
+    {
+        "id":12,
+        "img":"https://imageproxy.wolt.com/venue/6213f2cd87d29a5b527d694e/58975bac-9178-11ed-a080-3ac9c86faabb_2de824dc_7138_11ed_bcb7_ca3a8db7c52f_ozplove_group_photo.jpg?w=960",
+       "productName":"ÖzPlove",
+       "productOwner":"Milli Fast Food 😍",
+       "price":"1.40",
+       "time":"20-30 dəq"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+       "img":"https://imageproxy.wolt.com/venue/60eec2cada56998a107a7c74/1cd60152-c492-11ed-a027-7aac706f11ef_ramzioglu_paxlava_badamdar_30_.png?w=960",
+       "productName":"Rəmzioğlu Paxlava",
+       "productOwner":"Ramzioğlu",
+       "price":"1.40",
+       "time":"25-35"
+    },
+    {
+        "id":2,
+        "img":"https://imageproxy.wolt.com/venue/61eea3e52d54f85baeb9996e/91632c6c-c491-11ed-83cc-fabd2890ba69_anadolu_paxlava_40_.png?w=960",
+        "productName":"Anadolu Paxlava",
+        "productOwner":"Anadolu Paxlava",
+        "price":"0.99",
+        "time":"30-40"
+    },
+    {
+        "id":3,
+        "img":"https://imageproxy.wolt.com/venue/5ec38fbe4833665373b42a68/2aa8a306-c493-11ed-8284-7a336c2fedb2_mado_disc.png?w=960",
+        "productName":"MADO Fountain Square",
+        "productOwner":"...",
+        "price":"0.99",
+        "time":"25-35"
+    },
+    {
+        "id":4,
+        "img":"https://imageproxy.wolt.com/venue/5f0339834df5108f36fd5f9d/104ae4ac-c492-11ed-8004-32cc4e496cc0_viva_ns_20_.png?w=960",
+       "productName":"Viva Dessert R. Behbudov",
+       "productOwner":"“VIVA” Keyfiyyətə Zəmanət Verir! ....Ürəkdən!",
+       "price":"1.40",
+       "time":"25-35"
+    },
+    {
+        "id":5,
+        "img":"https://imageproxy.wolt.com/venue/63d9132c2e06f18ee5c6f0a8/a0c88b5c-c491-11ed-8392-7aac706f11ef_nefis_kulinariya_ns.png?w=960",
+       "productName":"Nəfis Kulinariya",
+       "productOwner":"Hər gün yeni və keyfiyyətli məhsullar.",
+       "price":"2.50",
+       "time":"35-45"
+    },
+    {
+        "id":6,
+        "img":"https://imageproxy.wolt.com/venue/5f0339834df5108f36fd5f9d/104ae4ac-c492-11ed-8004-32cc4e496cc0_viva_ns_20_.png?w=960",
+       "productName":"Viva Dessert Elmler",
+       "productOwner":"“VIVA” Keyfiyyətə Zəmanət Verir! ....Ürəkdən!",
+       "price":"2.20",
+       "time":"30-40"
+    }
+    ,
+    {
+        "id":7,
+        "img":"https://imageproxy.wolt.com/venue/6372645fcd41e8f98e89f377/761fc8e2-c492-11ed-9953-5e1df777b7fa_hazel_ns.png?w=960",
+       "productName":"HAZEL R. Behbudov",
+       "productOwner":"Quru meyvələr, çərəzlər, şokolad və qəhvə",
+       "price":"1.40",
+       "time":"30-40"
+    } ,
+    {
+        "id":8,
+        "img":"https://imageproxy.wolt.com/venue/617baf16db8c42b42bdff1f1/aa7cfb24-c491-11ed-bbdb-32cc4e496cc0_pakhlava_boutique_ns_20_.png?w=960",
+       "productName":"Pakhlava Boutique",
+       "productOwner":"Şirniyyat Dükanı",
+       "price":"2.2",
+       "time":"25-35"
+    }
+]

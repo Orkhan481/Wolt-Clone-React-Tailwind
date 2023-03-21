@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+       "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/f5b057f2-44c2-11ed-9261-16ae1282b55b_35190aaa_9933_4586_9728_815cb52954bc.png?w=600",
+       "restoranName":"McDonald's"
+       
+    },
+    {
+        "id":2,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/0efd9d64-924d-11ed-9b2b-f2990ce6970e_792623ee_73d7_48f2_8230_a590d7e8ed55.png?w=600",
+        "restoranName":"Papa Johns"
+        
+    },
+    {
+        "id":3,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/de8372ba-a932-11ed-b066-269d3051460a_05fa4f17_e2a0_4b64_8f04_0bf598787ee6.png?w=600",
+        "restoranName":"KFC"
+       
+    },
+    {
+        "id":4,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/ffce76c8-44c3-11ed-8290-1a8111df7d0b_cd59e0af_2794_442f_8343_5efdda2d3a37.png?w=600",
+       "restoranName":"BİR İKİ DÖNƏR"
+      
+    },
+    {
+        "id":5,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/be5be826-a7bd-11ed-881d-dad14611dbdf_c488f64b_e0e0_446d_a345_a69cea303ba0.png?w=600",
+       "restoranName":"FRYDAY"
+      
+    },
+    {
+        "id":6,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/82f3d976-455f-11ed-88d0-9e69955353c8_f3fa4499_7f47_4be4_86ed_530b4b16c372.jpeg?w=600",
+       "restoranName":"CAFECİTY"
+      
+    }
+    ,
+    {
+        "id":7,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/ba96033c-44c3-11ed-ba50-1a8111df7d0b_5d492e3f_613a_4c92_ab24_ac9bb0a4500d.png?w=600",
+       "restoranName":"Shaurma #1"
+      
+    } ,
+    {
+        "id":8,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/f926253e-a399-11ed-b615-227418235f78_12fa3244_835a_4770_adbb_98e6f68fbc1f.jpg?w=600",
+       "restoranName":"Tendir & Mendir"
+       
+    }
+]

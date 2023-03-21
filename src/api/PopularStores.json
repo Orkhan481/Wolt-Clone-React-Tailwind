@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+       "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/32611fac-44c2-11ed-a684-6684c7efdfaa_0f5036a0_edb7_41f8_8ddc_03a4c5df20d7.png?w=600",
+       "storeName":"Wolt Market"
+       
+    },
+    {
+        "id":2,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/9d787e6c-70a4-11ed-afd0-aeea481c8af6_5a8f1d4b_cdda_4998_869a_9c636a245eb3.png?w=600",
+        "storeName":"Slim Diet"
+        
+    },
+    {
+        "id":3,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/7b411270-a85b-11ed-989e-32aeb1696cf8_8f8eda32_f873_43b0_a3e1_861f616b661e.png?w=600",
+        "storeName":"Kanon Aptek"
+       
+    },
+    {
+        "id":4,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/b1bb38c0-b801-11ed-9cfa-7e6ce00cce64_ed0c574c_de0a_4c08_a3d1_7d9d61698b97.png?w=600",
+       "storeName":"Medical City"
+      
+    },
+    {
+        "id":5,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/2cf2ea36-538c-11ed-8460-6287c156ed5a_09325a82_38b1_4cfd_87c4_56a2ebad3345.png?w=600",
+       "storeName":"Alcopoint"
+      
+    },
+    {
+        "id":6,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/86cf51d2-875f-11ed-a960-36f672a8de19_5fa5c069_8811_44b9_a316_880676f585ae.png?w=600",
+       "storeName":"Vozol"
+      
+    }
+    ,
+    {
+        "id":7,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/95d51e92-875e-11ed-ada2-2e9e3af26bac_b169f116_b4d5_43be_8625_fea91d0776c8.png?w=600",
+       "storeName":"Elfbar Vapebox"
+      
+    } ,
+    {
+        "id":8,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/content_editor/banners/images/1b70c50c-91b3-11ed-9cc0-92f23d98db6e_9a1b4644_6ded_4945_afb4_5bee55400dc0.png?w=300",
+       "storeName":"HQD"
+       
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+       "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/0a824832-c5b0-11ea-8a94-b2000c51ab5c_4b9cac02_a445_4de3_acf2_94398063345e.jpg-md?w=600",
+       "categoryName":"Amerikan",
+       "categoryNumber":"120 məkan"
+       
+    },
+    {
+        "id":2,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/fd1d18e0-c5a8-11ea-8a78-822e244794a0_a1852dc9_4afb_4877_9659_793adcb0f87b.jpg-md?w=600",
+        "categoryName":"Salat",
+        "categoryNumber":"454 məkan"
+        
+    },
+    {
+        "id":3,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/90afac70-c5af-11ea-8a78-822e244794a0_7e31d123_8ff4_4211_9f17_88ae65a175bd.jpg-md?w=600",
+        "categoryName":"Dessert",
+        "categoryNumber":"163 məkan"
+       
+    },
+    {
+        "id":4,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/a69b5aea-c5a8-11ea-9f48-2e3b484a03e4_0b2c3eb5_ae95_4bff_9144_7f7c93ea74f9.jpg-md?w=300",
+       "categoryName":"Burger",
+       "categoryNumber":"196 məkan"
+      
+    },
+    {
+        "id":5,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/9a7e1f7c-c5b7-11ea-9b2e-5e2907005c5d_5d34f742_d0cd_46b4_abda_6e4c7526aa4c.jpg-md?w=600",
+       "categoryName":"Dondurma",
+       "categoryNumber":"17 məkan"
+      
+    },
+    {
+        "id":6,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/ec0d3364-a338-11eb-a7d2-024fe1cb8a75_bdbe170e_3357_4b13_a0b0_e14b280a36b5.jpg-md?w=600",
+       "categoryName":"Dürümlər",
+       "categoryNumber":" 47 məkan"
+      
+    }
+    ,
+    {
+        "id":7,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/f4af6112-c5ae-11ea-a1b0-c287d2abdf0c_aab191cd_762d_43f5_80a2_6fc17f10ff9a.jpg-md?w=600",
+       "categoryName":"Kafe",
+       "categoryNumber":" 124 məkan"
+      
+    } ,
+    {
+        "id":8,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/53129366-c5a8-11ea-8a78-822e244794a0_52b897cd_ac18_4cb5_9921_2653f1d38650.jpg-md?w=600",
+       "categoryName":"Pizza",
+       "categoryNumber":"251 məkan"
+       
+    },
+    {
+        "id":9,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/5c379448-8364-11ec-86c9-f6b3c036ea5b_2fc5ac24_1974_4871_a73a_829e6417f3f9.jpeg-md?w=600",
+       "categoryName":"Toyuq", 
+       "categoryNumber":"182 məkan"
+      
+    }
+    ,
+    {
+        "id":10,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/8469121c-cb98-11ec-aea3-6e751d6aff91_87f42415_c563_4359_a7bb_f31d7c8f6378.png-md?w=600",
+       "categoryName":"Dönər",
+       "categoryNumber":"245 məkan"
+      
+    } ,
+    {
+        "id":11,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/7f77b0a2-c5a9-11ea-b72a-c2fc8785833c_57601b6c_2bf1_4240_a6d0_da0d7dca0517.jpg-md?w=600",
+       "categoryName":"Şorba",
+       "categoryNumber":"310 məkan"
+       
+    }
+    ,
+    {
+        "id":12,
+        "img":"https://imageproxy.wolt.com/wolt-frontpage-images/categories/d5088416-c5a8-11ea-9f48-2e3b484a03e4_d2d97942_18b2_4b05_9bfa_fabc86c2bffa.jpg-md?w=600",
+       "categoryName":"Balıq",
+       "categoryNumber":"82 məkan"
+       
+    }
+]
+

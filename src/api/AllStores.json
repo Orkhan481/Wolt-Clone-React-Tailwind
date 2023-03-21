@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+       "img":"https://imageproxy.wolt.com/venue/6149c17f65c1d650c06a55e9/d8b1e6a2-97bf-11ed-8551-4aa33091557f_11625e3c_d75e_11ec_a558_2ea667861a1a_aa225e16_2a6a_11ec_b3d6_3a66ad5e1117__cover.jpg?w=960",
+       "storeName":"Slim Diet",
+       "description":"🥗 Dadli Arıqlayın! Hermetik olaraq möhürlənmiş Slim Diet paketi, qidalanma zamanı təzəliyə və çatdırılma gigiyenasına 100% zəmanət verir.",
+       "price":"1.90",
+       "time":"35-45"
+    },
+    {
+        "id":2,
+       "img":"https://imageproxy.wolt.com/venue/62544bf0a9ed98487c67af76/25f7287e-c406-11ed-8189-2e05f6a1aba9_wolt_market_1140x810_1.png?w=960",
+       "storeName":"Wolt Market Landmark",
+       "description":"40 AZN-dən yuxarı bütün sifarişlərə, və yeni müştərilər üçün İLK 3 Wolt Market sifarişinə ÇATDIRILMA PULSUZ! 🔥 Wolt Market ərzaq məhsulları 24/7 25 dəqiqədən az müddətdə çatdırır 🥰 Sürətli, asan və praktik məhsul çatdırılması üçün yeni bazarımızda geniş çeşidli məhsullar və böyük təkliflər kəşf edin💙",
+       "price":"2.00",
+       "time":"20-30"
+    },
+    {
+        "id":3,
+       "img":"https://imageproxy.wolt.com/venue/61a8ac377f3960375aa248e2/93563aac-6afd-11ed-8989-badbd0554433_image__30_.png?w=960",
+       "storeName":"ELFBAR VapeBox",
+       "description":"Azərbaycanda rəsmi distribyutor!🔥 35 AZN sifarişlərinə çatdırılma haqqı 0 AZN 🤩 Elf Bar zəngin dada və fərdi dizayna malik birdəfəlik buxarlandırıcıdır.İstifadəsi mümkün qədər sadə və",
+       "price":"0.00",
+       "time":"20-30"
+    },
+    {
+        "id":4,
+       "img":"https://imageproxy.wolt.com/venue/5e8663a186e0566ccb67df85/7ae93b46-236c-11ed-9cf9-d6ad7ce835ba_27fdf9e4_bbcf_11ec_97df_2aeafd6335a9_port_bazar.jpg?w=960",
+       "storeName":" Port Bazar",
+       "description":"Port Bazar",
+       "price":"2.20",
+       "time":"45-55"
+    },
+    {
+        "id":5,
+       "img":"https://imageproxy.wolt.com/venue/610b9c8ee001523792ec8406/102ecc3a-21f6-11ec-ab7a-7a53d065ab0e_white_copy.jpeg?w=960",
+       "storeName":"HQD S.VURĞUN OFFICIAL",
+       "description":"HQD, parlaq bir dizayna və əla zövqə malik birdəfəlik fərdi elektron buxarlandırıcıdır (HQD POD sistemi). HQD dünyanın ən populyar elektron siqaretlərindəndir",
+       "price":"0.00",
+       "time":"20-30",
+       "free":true
+    },
+    {
+        "id":6,
+       "img":"https://imageproxy.wolt.com/venue/6308a07925b26fa1f52c6e03/0e92193e-252b-11ed-89ef-3ed739457ebd_8959064c_2774_11ec_bc5f_ea93cc343164_c3a6a7ee_21f9_11ec_8469_86ad6cefc7fd_vozol2.jpeg?w=960",
+       "storeName":"VOZOL Official 28 May",
+       "description":"Böyük endirimlər 💲💲💲 Geniş çeşidli dadlar olan birdəfəlik elektron cihazlar.",
+       "price":"0.00",
+       "time":"20-30",
+       "free":true
+    },
+    {
+        "id":7,
+       "img":"https://imageproxy.wolt.com/venue/6217228e49c6de780ed8d702/d088b9bc-a79a-11ec-afca-3abf72498df2___.png?w=960",
+       "storeName":"MAC BAREN TOBACCO BAKU",
+       "description":"Mac Baren dünyasını kəşf et!",
+       "price":"2.5",
+       "time":"25-35"
+    },
+    {
+        "id":8,
+       "img":"https://imageproxy.wolt.com/venue/6184ebc11c5875c759c63f16/75e664e0-ad12-11ed-9db7-f6d2176914cc_alcopoint_1.png?w=960",
+       "storeName":"ALCOPOINT Elmlər",
+       "description":"Keyfiyyət və təhlükəsizlik zəmanəti!",
+       "price":"2.80",
+       "time":"20-30"
+    },
+    {
+        "id":9,
+       "img":"https://imageproxy.wolt.com/venue/5e4143ea77b788f4ad645783/ab979e7c-97c0-11ed-89a7-c66ac7e4566b_8a8009d4_517f_11ea_815f_0a586477a712_dsc08325_copy.jpg?w=960",
+       "storeName":"Dietstore - Bombbar",
+       "description":"...",
+       "price":"1.40",
+       "time":"20-30"
+    },
+    {
+        "id":10,
+       "img":"https://imageproxy.wolt.com/venue/5f6afd7d4674cdfe0981173e/76f57346-d417-11ec-8a1c-9633c3626e48_pive_al_group.jpg?w=960",
+       "storeName":"Pive Al - Nizami",
+       "description":"Beer and Snacks",
+       "price":"1.90",
+       "time":"25-35"
+    },
+    {
+        "id":11,
+       "img":"https://imageproxy.wolt.com/venue/632af569257588b5eb6d278d/502ff08a-9f49-11ed-8364-8a2c1e58475f_4d5be7b8_3a6f_11ed_b33c_9ed98e9f8c25_whatsapp_image_2022_09_22_at_3.42.41_pm.jpeg?w=960",
+       "storeName":"TEAYOUME",
+       "description":"Müasir çay laboratoriyası",
+       "price":"1.40",
+       "time":"20-30"
+    },
+    {
+        "id":12,
+       "img":"https://imageproxy.wolt.com/venue/6217ae62a2908f2852738d2f/4f2ba83c-c492-11ed-bdea-321d282d6112_freshbox_ns_.png?w=960",
+       "storeName":"Freshbox",
+       "description":"Online fresh bazaar. Healthy living starts here. Bütün sifarişlərdə ÇATDIRILMA HAQQI 0 AZN! 🔥",
+       "price":"0.00",
+       "time":"20-30",
+       "free":true
+    }
+]
